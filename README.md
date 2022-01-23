@@ -1,1 +1,3 @@
-# school_projects
+# school_exercises
+
+C++ exercises / highschool class
